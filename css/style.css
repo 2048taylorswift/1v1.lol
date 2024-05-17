@@ -206,11 +206,3 @@ a[onclick*="showConsentToolSettings"] {
 	right: 0px;
 	left: auto !important;
 }
-
-img {
-    display: none;
-}
-
-body {
-    display: none; !important;
-}
